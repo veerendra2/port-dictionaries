@@ -1,4 +1,8 @@
-port_dictionary={
+'''
+Author: Veerendra.Kakumanu
+Description: TCP ports (Collected TCP port from http://www.iana.org)
+'''
+ports={
 "1":"tcpmux",
 "2":"compressnet",
 "3":"compressnet",
