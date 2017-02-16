@@ -22,3 +22,4 @@ if response.status_code in HTTPStatusCodes.codes:
 * Collected TCP port from [http://www.iana.org](http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * Collected HTTP status codes from [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * Collected FTP returned codes from [wikipedia](https://en.wikipedia.org/wiki/List_of_FTP_server_return_codes)
+* Collected TCP connections states from [kernel.org](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/net/tcp_states.h?id=HEAD)
