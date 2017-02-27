@@ -1,6 +1,7 @@
 '''
 Author: Veerendra.Kakumanu
 Description: TCP ports (Collected TCP port from http://www.iana.org)
+Note: You can find similar info at /etc/services
 '''
 ports={
 "1":"tcpmux",
