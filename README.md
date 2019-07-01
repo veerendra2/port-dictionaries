@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/veerendra2/dictionaries.svg?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/veerendra2/dictionaries.svg?style=for-the-badge)
 # Python Dictionaries
 Simple python dictionaries for HTTP, FTP return codes and TCP ports, etc. Usefull when code throws number(HTTP return code), instead of diplaying return code number like `404`, show message what it means. 
 
